@@ -1,6 +1,8 @@
 # Angular BuzzFeed
 
 ##
+Criação de um clone do BuzzFeed com Angular.
+##
 
 | Angular    | Explorando o Angular Framework                   |
 |------------|--------------------------------------------------|
@@ -10,6 +12,11 @@
 | Plataforma | DIO                                              |
 
 <br>
+
+
+![alt text](./src/assets/imgs/telas/image.png)
+
+![alt text](./src/assets/imgs/telas/imageRes.png)
 
 ##
 ### Tecnologias utilizadas:
